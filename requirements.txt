@@ -1,2 +1,5 @@
 openai
-streamlit
+fastapi
+uvicorn
+python-multipart
+pydantic
